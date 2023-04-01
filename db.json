@@ -1,0 +1,31 @@
+{
+  "employee": [
+    {
+      "id": 2,
+      "name": "hasham",
+      "email": "hasham@.com",
+      "phone": "03948859324"
+    },
+    {
+      "name": "Ali",
+      "email": "ali@.com",
+      "phone": "0300010022",
+      "active": true,
+      "id": 3
+    },
+    {
+      "name": "Hasham Shahid",
+      "email": "hasham071@gmai.com",
+      "phone": "03092673509",
+      "active": true,
+      "id": 4
+    },
+    {
+      "name": "sasa",
+      "email": "saas@ssa",
+      "phone": "2222",
+      "active": true,
+      "id": 5
+    }
+  ]
+}
